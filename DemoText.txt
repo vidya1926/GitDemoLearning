@@ -1,1 +1,1 @@
-Learning to commit
+Learning to commit from terminal
