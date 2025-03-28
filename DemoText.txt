@@ -3,3 +3,5 @@ Learning to commit from terminal
 Learning to push and pull the code
 
 pushed with new file from remote
+
+push from local repo to understand resolve conflict
