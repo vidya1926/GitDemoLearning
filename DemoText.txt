@@ -1,1 +1,3 @@
 Learning to commit from terminal
+
+Learning to push and pull the code
